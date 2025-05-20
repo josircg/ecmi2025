@@ -1,2 +1,5 @@
 nome = input('Digite o seu nome')
-print(f'{nome} é legal!')
+if nome.upper() == 'JOSIR':
+    print(f'{nome} é legal!')
+else:
+    print('Eu não te conheço')
