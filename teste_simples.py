@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title('Teste ECMI 2')
 st.write("Tabela")
-print('xuxu')
+# print('xuxu')
 # nome = st.input('Digite o seu nome')
 #if nome.upper() == 'JOSIR':
 #    print(f'{nome} é legal!')
